@@ -1,0 +1,29 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    color: #54ADEC;
+    background-color: #C30A0A;
+}
+#con2{
+    background-color: black;
+    
+}
+.card{
+    position: relative;
+    margin-top: 10%;
+    margin-bottom: 70%;
+    font-size: 15px;
+    padding-right: 10px;
+}
+#webDev{
+    padding-top: 10%;
+    position: relative;
+    border-left: 0px;
+}
+
+#col3{
+    padding-top: 10%;
+    position: relative;
+}
