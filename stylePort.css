@@ -3,8 +3,8 @@
     border-top: 10px;
     padding-left: 20px;
 }
-#row1{
-    margin-bottom: 10px;
+.card-deck col-md offset-4{
+    background-color: black;
 }
 body{
     background-color: black;
